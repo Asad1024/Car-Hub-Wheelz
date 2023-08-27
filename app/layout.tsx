@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 import Head from "next/head"
 
 export const metadata: Metadata = {
-  title: "Car App",
+  title: "Wheelz",
   description: "Discover latest Cars ",
 };
 
